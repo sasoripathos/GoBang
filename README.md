@@ -4,6 +4,8 @@ The final project of Computer Organization (CSCB58) Summer 2017 in University of
 
 For the code, I wrote the Logic Part. Ende Jin wrote the Display Part.
 
+Here is a link for a video presentation: https://www.youtube.com/watch?v=KyxZJT9iJOU
+
 This repository is only used to display the final result. The original repository used during the development is: https://bitbucket.org/DKXXXL/fivesons
 
 Feel free to play with it if you have the hardware. If you are a student in university (especially UofT students), please don't try to use this project in or as your own project without the professor's permission.
